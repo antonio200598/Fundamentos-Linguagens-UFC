@@ -8,8 +8,6 @@ Apresentar uma linha do tempo com os principais marcos da evolução das linguag
 
 A linha do tempo foi construída com base em pesquisa bibliográfica e material didático da disciplina. Os marcos escolhidos representam linguagens pioneiras, transições importantes entre paradigmas e tecnologias influentes que contribuíram para a diversidade de linguagens existentes atualmente.
 
-Para a criação visual, foi utilizado o Canva (https://www.canva.com), permitindo clareza e organização cronológica dos eventos.
-
 ## 🕰️ Linha do Tempo das Linguagens
 
 | Ano | Linguagem     | Destaque                                              |
