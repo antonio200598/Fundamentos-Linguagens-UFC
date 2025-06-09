@@ -16,7 +16,7 @@ O diagrama apresentado foi criado com a ferramenta [Draw.io](https://app.diagram
 
 ## 📊 Diagrama Explicativo
 
-![Diagrama dos Ambientes de Programação](Fundamentos-Linguagens-UFC/02-ambientes/diagrama-ambientes.drawio.png)
+![Diagrama dos Ambientes de Programação](diagrama-ambientes.drawio.png)
 
 > O diagrama mostra três fluxos principais:
 > - **Compilação Direta (C):** Código → Compilador → Código de Máquina → Sistema Operacional
